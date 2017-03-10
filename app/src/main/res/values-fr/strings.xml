@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MaPhotoSpécial</string>
+    <string name="mensajebotonno">NON</string>
+    <string name="mensajebotonsi">OUI</string>
+    <string name="mensajepositivo">Tu aimes! :)</string>
+    <string name="mensajenegativo">Tu n\'aime pas! :(</string>
+</resources>

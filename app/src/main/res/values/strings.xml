@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MiFotoEspecial</string>
+    <string name="mensajebotonsi">SI</string>
+    <string name="mensajebotonno">NO</string>
+    <string name="mensajepositivo">Te Gusta! :)</string>
+    <string name="mensajenegativo">No te gusta! :(</string>
+</resources>
